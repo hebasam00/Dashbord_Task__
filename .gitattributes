@@ -1,0 +1,8 @@
+file_name filter=lfs diff=lfs merge=lfs -text
+file_nameDashbord filter=lfs diff=lfs merge=lfs -text
+task filter=lfs diff=lfs merge=lfs -text
+file_namegit filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+Dashbord-Task filter=lfs diff=lfs merge=lfs -text
+fdashbord-task filter=lfs diff=lfs merge=lfs -text
